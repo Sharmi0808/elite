@@ -4,5 +4,6 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "svn.ignoreMissingSvnWarning": true
+  "svn.ignoreMissingSvnWarning": true,
+  "salesforcedx-vscode-apex.java.home": "C:\\Program Files\\Zulu\\zulu-11"
 }
